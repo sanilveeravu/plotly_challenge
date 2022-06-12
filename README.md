@@ -19,7 +19,8 @@ The webpage was built using javascript and bootstrap styles. Dynamic filter was 
 
 1. The bar chart was built to dynamically change based on the participant ID with the top samples.
 
-2. The bubble chart was built to use the whole sample.
+2. The bubble chart was built to use the whole sample. Below is a sample image with hovering enabled.
+![hoverexample](Resources/hoverexample.png)
 
 3. The gauge was built with the recommended 2 step ticks.
 
