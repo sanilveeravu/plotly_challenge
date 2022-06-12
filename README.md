@@ -1,4 +1,4 @@
-# UFOs
+# Bacteria Research from Human Body
 
 ## Overview of the Project
 
@@ -33,15 +33,15 @@ https://github.com/sanilveeravu/plotly_challenge/blob/e699b679ebb37bf84a7860e432
 2. Added black background color.
 https://github.com/sanilveeravu/plotly_challenge/blob/e699b679ebb37bf84a7860e4323430766bdb8d27/static/css/style.css#L2-L4
 
-3. Customized font color 
-https://github.com/sanilveeravu/plotly_challenge/blob/e699b679ebb37bf84a7860e4323430766bdb8d27/static/css/style.css#L10
-https://github.com/sanilveeravu/plotly_challenge/blob/e699b679ebb37bf84a7860e4323430766bdb8d27/static/css/style.css#L14
+3. Customized font color (White Color Font)
+https://github.com/sanilveeravu/plotly_challenge/blob/aa24a0f41620b648e14e438d79dbfa9c5f2c67f9/static/css/style.css#L13-L15
+https://github.com/sanilveeravu/plotly_challenge/blob/aa24a0f41620b648e14e438d79dbfa9c5f2c67f9/static/css/style.css#L13-L15
 
 4. More information about the project in the site with bootstrap class
 https://github.com/sanilveeravu/plotly_challenge/blob/e699b679ebb37bf84a7860e4323430766bdb8d27/index.html#L27
 
 5. Responsive web page, one example below
-https://github.com/sanilveeravu/plotly_challenge/blob/e699b679ebb37bf84a7860e4323430766bdb8d27/charts.js#L148
+https://github.com/sanilveeravu/plotly_challenge/blob/aa24a0f41620b648e14e438d79dbfa9c5f2c67f9/charts.js#L148-L151
 
 ---
 
