@@ -35,7 +35,7 @@ https://github.com/sanilveeravu/plotly_challenge/blob/e699b679ebb37bf84a7860e432
 
 3. Customized font color (White Color Font)
 https://github.com/sanilveeravu/plotly_challenge/blob/aa24a0f41620b648e14e438d79dbfa9c5f2c67f9/static/css/style.css#L13-L15
-https://github.com/sanilveeravu/plotly_challenge/blob/aa24a0f41620b648e14e438d79dbfa9c5f2c67f9/static/css/style.css#L13-L15
+https://github.com/sanilveeravu/plotly_challenge/blob/92b9f51909c93b582d37596daa09d7d78d9089b5/static/css/style.css#L6-L11
 
 4. More information about the project in the site with bootstrap class
 https://github.com/sanilveeravu/plotly_challenge/blob/e699b679ebb37bf84a7860e4323430766bdb8d27/index.html#L27
