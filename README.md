@@ -13,7 +13,7 @@ For this research, a dataset containing the details of the participants along wi
 
 ## Results
 
-The webpage was built using javascript and bootstrap styles. Dynamic filter was added to populate the details of the participant. Below is a sample of the webpage.
+The webpage was built using javascript and bootstrap styles. Dynamic filter was added to populate the details of the participant. The webpage can be accessed through https://sanilveeravu.github.io/plotly_challenge/. Below is a sample of the webpage.
 
 ![bellybuttonwebpage](Resources/bellybuttonwebpage.png)
 
